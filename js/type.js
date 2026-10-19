@@ -1,0 +1,10 @@
+a=17
+b=17.17
+c="Aashutosh"
+d=true
+e='h'
+console.log(typeof(a))
+console.log(typeof(b))
+console.log(typeof(c))
+console.log(typeof(d))
+console.log(typeof(e))
